@@ -1,0 +1,15 @@
+/Users/handegoroglu/Projects/customCommunicationFrame/customCommunicationFrame/bin/Debug/net7.0/customCommunicationFrame
+/Users/handegoroglu/Projects/customCommunicationFrame/customCommunicationFrame/bin/Debug/net7.0/customCommunicationFrame.deps.json
+/Users/handegoroglu/Projects/customCommunicationFrame/customCommunicationFrame/bin/Debug/net7.0/customCommunicationFrame.runtimeconfig.json
+/Users/handegoroglu/Projects/customCommunicationFrame/customCommunicationFrame/bin/Debug/net7.0/customCommunicationFrame.dll
+/Users/handegoroglu/Projects/customCommunicationFrame/customCommunicationFrame/bin/Debug/net7.0/customCommunicationFrame.pdb
+/Users/handegoroglu/Projects/customCommunicationFrame/customCommunicationFrame/obj/Debug/net7.0/customCommunicationFrame.csproj.AssemblyReference.cache
+/Users/handegoroglu/Projects/customCommunicationFrame/customCommunicationFrame/obj/Debug/net7.0/customCommunicationFrame.GeneratedMSBuildEditorConfig.editorconfig
+/Users/handegoroglu/Projects/customCommunicationFrame/customCommunicationFrame/obj/Debug/net7.0/customCommunicationFrame.AssemblyInfoInputs.cache
+/Users/handegoroglu/Projects/customCommunicationFrame/customCommunicationFrame/obj/Debug/net7.0/customCommunicationFrame.AssemblyInfo.cs
+/Users/handegoroglu/Projects/customCommunicationFrame/customCommunicationFrame/obj/Debug/net7.0/customCommunicationFrame.csproj.CoreCompileInputs.cache
+/Users/handegoroglu/Projects/customCommunicationFrame/customCommunicationFrame/obj/Debug/net7.0/customCommunicationFrame.dll
+/Users/handegoroglu/Projects/customCommunicationFrame/customCommunicationFrame/obj/Debug/net7.0/refint/customCommunicationFrame.dll
+/Users/handegoroglu/Projects/customCommunicationFrame/customCommunicationFrame/obj/Debug/net7.0/customCommunicationFrame.pdb
+/Users/handegoroglu/Projects/customCommunicationFrame/customCommunicationFrame/obj/Debug/net7.0/customCommunicationFrame.genruntimeconfig.cache
+/Users/handegoroglu/Projects/customCommunicationFrame/customCommunicationFrame/obj/Debug/net7.0/ref/customCommunicationFrame.dll
