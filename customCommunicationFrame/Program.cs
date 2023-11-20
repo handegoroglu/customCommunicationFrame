@@ -7,18 +7,25 @@ namespace ChecksumCalculator
     {
         static void Main(string[] args)
         {
-            
-            byte[] byteArray = { 0x01, 0x02, 0x03, 0x04 };
-            communicationFrame.infoSection info=new communicationFrame.infoSection();
+            // Sample content array
+            byte[] content = { 0x01, 0x02, 0x03, 0x04 };
+
+            // Create an instance of the infoSection struct
+            communicationFrame.infoSection info = new communicationFrame.infoSection();
+
+            // Set values for the infoSection struct
             info.highDataPriority = true;
             info.readOrSend = true;
-            info.waitForAnswer = true;
+            info.waitForAnswer = false;
             info.info = 1;
-            communicationFrameEncoder frameEncoder = new communicationFrameEncoder(true,info,byteArray,12);
 
-            Console.WriteLine("handeeee");
+            // Create an instance of communicationFrameEncoder to encode the communication frame
+            communicationFrameEncoder frameEncoder = new communicationFrameEncoder(true, info, content, 12, 100);
+
+            // Create an instance of communicationFrameDecoder to decode the encoded frame
+            communicationFrameDecoder frameDecoder = new communicationFrameDecoder(frameEncoder.packet, true);
+
         }
 
-       
     }
 }
