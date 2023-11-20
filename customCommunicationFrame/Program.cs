@@ -25,6 +25,7 @@ namespace ChecksumCalculator
             // Create an instance of communicationFrameDecoder to decode the encoded frame
             communicationFrameDecoder frameDecoder = new communicationFrameDecoder(frameEncoder.packet, true);
 
+
         }
 
     }
